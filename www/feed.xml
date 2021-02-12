@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>My Blog about Boats</title>
+  <subtitle>I am writing about my experiences as a naval navel-gazer.</subtitle>
+  <link href="https://example.com/feed.xml" rel="self"/>
+  <link href="https://example.com/"/>
+  <updated>2021-02-11T23:43:56Z</updated>
+  <id>https://example.com/</id>
+  <author>
+    <name>Boaty McBoatFace</name>
+    <email>me@example.com</email>
+  </author>
+  
+  <entry>
+    <title>Breach: StoryBird</title>
+    <link href="https://example.com/hibp/storybird/"/>
+    <updated>2021-02-02T00:39:58Z</updated>
+    <id>https://example.com/hibp/storybird/</id>
+    <content type="html">
+&lt;h1 id=&quot;storybird&quot;&gt;StoryBird&lt;/h1&gt;
+
+&lt;p&gt;&lt;time datetime=&quot;2021-02-02T00:39:58Z&quot;&gt;2021-02-02T00:39:58Z&lt;/time&gt;&lt;/p&gt;
+&lt;p&gt;In August 2015, the storytelling service &lt;a href=&quot;https://www.zdnet.com/article/hacker-puts-up-for-sale-third-round-of-hacked-databases-on-the-dark-web/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;StoryBird suffered a data breach&lt;/a&gt; exposing 4 million records with 1 million unique email addresses. Impacted data also included names, usernames and passwords stored as PBKDF2 hashes. The data was provided to HIBP by &lt;a href=&quot;https://dehashed.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;dehashed.com&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Breach: Pixlr</title>
+    <link href="https://example.com/hibp/pixlr/"/>
+    <updated>2021-02-01T03:40:29Z</updated>
+    <id>https://example.com/hibp/pixlr/</id>
+    <content type="html">
+&lt;h1 id=&quot;pixlr&quot;&gt;Pixlr&lt;/h1&gt;
+
+&lt;p&gt;&lt;time datetime=&quot;2021-02-01T03:40:29Z&quot;&gt;2021-02-01T03:40:29Z&lt;/time&gt;&lt;/p&gt;
+&lt;p&gt;In October 2020, the online photo editing application &lt;a href=&quot;https://www.bleepingcomputer.com/news/security/hacker-posts-19-million-pixlr-user-records-for-free-on-forum/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Pixlr suffered a data breach&lt;/a&gt; exposing 1.9 million subscribers. Impacted data included names, email addresses, social media profiles, the country signed up from and passwords stored as SHA-512 hashes. The data was provided to HIBP by &lt;a href=&quot;https://dehashed.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;dehashed.com&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Breach: MeetMindful</title>
+    <link href="https://example.com/hibp/meetmindful/"/>
+    <updated>2021-01-31T02:59:06Z</updated>
+    <id>https://example.com/hibp/meetmindful/</id>
+    <content type="html">
+&lt;h1 id=&quot;meetmindful&quot;&gt;MeetMindful&lt;/h1&gt;
+
+&lt;p&gt;&lt;time datetime=&quot;2021-01-31T02:59:06Z&quot;&gt;2021-01-31T02:59:06Z&lt;/time&gt;&lt;/p&gt;
+&lt;p&gt;In early 2020, the online dating service &lt;a href=&quot;https://www.zdnet.com/article/hacker-leaks-data-of-2-28-million-dating-site-users/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;MeetMindful suffered a data breach&lt;/a&gt; that exposed 1.4 million unique customer email addresses. Included in the data was an extensive array of personal information used to find romantic matches including physical attributes, use of alcohol, drugs and cigarettes, marital statuses, birthdates, genders and the gender being sought. Additional personal information such as names, geographical locations and IP addresses were also exposed, along with passwords stored as bcrypt hashes.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Breach: Bonobos</title>
+    <link href="https://example.com/hibp/bonobos/"/>
+    <updated>2021-01-31T00:09:25Z</updated>
+    <id>https://example.com/hibp/bonobos/</id>
+    <content type="html">
+&lt;h1 id=&quot;bonobos&quot;&gt;Bonobos&lt;/h1&gt;
+
+&lt;p&gt;&lt;time datetime=&quot;2021-01-31T00:09:25Z&quot;&gt;2021-01-31T00:09:25Z&lt;/time&gt;&lt;/p&gt;
+&lt;p&gt;In August 2020, the clothing store &lt;a href=&quot;https://www.bleepingcomputer.com/news/security/bonobos-clothing-store-suffers-a-data-breach-hacker-leaks-70gb-database/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Bonobos suffered a data breach&lt;/a&gt; that exposed almost 70GB of data containing 2.8 million unique email addresses. The breach also exposed names, physical and IP addresses, phone numbers, order histories and passwords stored as salted SHA-512 hashes, including historical passwords. The breach also exposed partial credit card data including card type, the name on the card, expiry date and the last 4 digits of the card. The data was provided to HIBP by &lt;a href=&quot;https://dehashed.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;dehashed.com&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Breach: Nitro</title>
+    <link href="https://example.com/hibp/nitro/"/>
+    <updated>2021-01-19T10:45:32Z</updated>
+    <id>https://example.com/hibp/nitro/</id>
+    <content type="html">
+&lt;h1 id=&quot;nitro&quot;&gt;Nitro&lt;/h1&gt;
+
+&lt;p&gt;&lt;time datetime=&quot;2021-01-19T10:45:32Z&quot;&gt;2021-01-19T10:45:32Z&lt;/time&gt;&lt;/p&gt;
+&lt;p&gt;In September 2020, &lt;a href=&quot;https://www.bleepingcomputer.com/news/security/massive-nitro-data-breach-impacts-microsoft-google-apple-more/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;the Nitro PDF service suffered a massive data breach which exposed over 70 million unique email addresses&lt;/a&gt;. The breach also exposed names, bcrypt password hashes and the titles of converted documents. The data was provided to HIBP by &lt;a href=&quot;https://dehashed.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;dehashed.com&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Breach: Romwe</title>
+    <link href="https://example.com/hibp/romwe/"/>
+    <updated>2021-01-18T09:15:42Z</updated>
+    <id>https://example.com/hibp/romwe/</id>
+    <content type="html">
+&lt;h1 id=&quot;romwe&quot;&gt;Romwe&lt;/h1&gt;
+
+&lt;p&gt;&lt;time datetime=&quot;2021-01-18T09:15:42Z&quot;&gt;2021-01-18T09:15:42Z&lt;/time&gt;&lt;/p&gt;
+&lt;p&gt;In mid-2018, the Hong Kong-based retailer &lt;a href=&quot;https://finance.yahoo.com/finance/news/romwe-informs-shoppers-data-security-203054849.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Romwe suffered a data breach which exposed almost 20 million customers&lt;/a&gt;. The data was subsequently sold online and includes names, phone numbers, email and IP addresses, customer geographic locations and passwords stored as salted SHA-1 hashes. The data was provided to HIBP by &lt;a href=&quot;https://dehashed.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;dehashed.com&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Breach: Jobandtalent</title>
+    <link href="https://example.com/hibp/jobandtalent/"/>
+    <updated>2021-01-17T22:31:00Z</updated>
+    <id>https://example.com/hibp/jobandtalent/</id>
+    <content type="html">
+&lt;h1 id=&quot;jobandtalent&quot;&gt;Jobandtalent&lt;/h1&gt;
+
+&lt;p&gt;&lt;time datetime=&quot;2021-01-17T22:31:00Z&quot;&gt;2021-01-17T22:31:00Z&lt;/time&gt;&lt;/p&gt;
+&lt;p&gt;In approximately February 2018, &lt;a href=&quot;https://www.zdnet.com/article/hacker-puts-up-for-sale-third-round-of-hacked-databases-on-the-dark-web/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;the employment website Jobandtalent suffered a data breach which then appeared for sale alongside other breaches a year later&lt;/a&gt;. The incident impacted 11 million subscribers and exposed their names, email and IP addresses and passwords stored as salted SHA-1 hashes.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Breach: Glofox</title>
+    <link href="https://example.com/hibp/glofox/"/>
+    <updated>2021-01-10T01:30:48Z</updated>
+    <id>https://example.com/hibp/glofox/</id>
+    <content type="html">
+&lt;h1 id=&quot;glofox&quot;&gt;Glofox&lt;/h1&gt;
+
+&lt;p&gt;&lt;time datetime=&quot;2021-01-10T01:30:48Z&quot;&gt;2021-01-10T01:30:48Z&lt;/time&gt;&lt;/p&gt;
+&lt;p&gt;In March 2020, the Irish gym management software company &lt;a href=&quot;https://www.irishtimes.com/business/technology/irish-start-up-glofox-investigates-possible-data-breach-1.4414837&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Glofox suffered a data breach which exposed 2.3M membership records&lt;/a&gt;. The data included email addresses, names, phone numbers, genders, dates of birth and passwords stored as unsalted MD5 hashes.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Breach: GeniusU</title>
+    <link href="https://example.com/hibp/geniusu/"/>
+    <updated>2021-01-08T21:49:21Z</updated>
+    <id>https://example.com/hibp/geniusu/</id>
+    <content type="html">
+&lt;h1 id=&quot;geniusu&quot;&gt;GeniusU&lt;/h1&gt;
+
+&lt;p&gt;&lt;time datetime=&quot;2021-01-08T21:49:21Z&quot;&gt;2021-01-08T21:49:21Z&lt;/time&gt;&lt;/p&gt;
+&lt;p&gt;In November 2020, &lt;a href=&quot;https://www.databreaches.net/more-drama-on-a-forum-and-a-slew-of-new-databases-dumped/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;a collection of data breaches were made public including the &amp;quot;Entrepreneur Success Platform&amp;quot;, GeniusU&lt;/a&gt;. Dating back to the previous month, the data included 1.3M names, email and IP addresses, genders, links to social media profiles and passwords stored as bcrypt hashes. The data was provided to HIBP by &lt;a href=&quot;https://dehashed.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;dehashed.com&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Breach: Ledger</title>
+    <link href="https://example.com/hibp/ledger/"/>
+    <updated>2020-12-20T21:14:56Z</updated>
+    <id>https://example.com/hibp/ledger/</id>
+    <content type="html">
+&lt;h1 id=&quot;ledger&quot;&gt;Ledger&lt;/h1&gt;
+
+&lt;p&gt;&lt;time datetime=&quot;2020-12-20T21:14:56Z&quot;&gt;2020-12-20T21:14:56Z&lt;/time&gt;&lt;/p&gt;
+&lt;p&gt;In June 2020, the hardware crypto wallet manufacturer &lt;a href=&quot;https://www.ledger.com/addressing-the-july-2020-e-commerce-and-marketing-data-breach&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Ledger suffered a data breach that exposed over 1 million email addresses&lt;/a&gt;. The data was initially sold before being dumped publicly in December 2020 and included names, physical addresses and phone numbers. The data was provided to HIBP by &lt;a href=&quot;https://twitter.com/UnderTheBreach&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Alon Gal, CTO of cybercrime intelligence firm Hudson Rock&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
+</feed>

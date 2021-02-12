@@ -1,0 +1,18 @@
+---
+pagination:
+  data: hibp
+  size: 1
+  alias: breach
+  addAllPagesToCollections: true
+tags:
+  - breach
+permalink: "/hibp/{{ breach.Name | slug }}/"
+eleventyComputed:
+  title: "Breach: {{ breach.Title }}"
+  date: "{{ breach.AddedDate }}"
+---
+
+<h1 id="{{ breach.Name | slug }}">{{ breach.Title }}</h1>
+
+<p><time datetime="{{ breach.AddedDate }}">{{ breach.AddedDate }}</time></p>
+<p>{{ breach.Description | safe }}</p>
